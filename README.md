@@ -107,36 +107,6 @@ A Google Drive-style full-stack app with folders, upload and download, search, s
 
 ---
 
-## 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Full Stack Developer** | Techy Web Solutions (Remote) | Nov 2025 – Aug 2026 |
-| **Frontend Intern** | MAKUNAI Global Technologies (Noida) | Mar 2025 – Apr 2025 |
-
-<details>
-<summary><b>Full Stack Developer: Techy Web Solutions</b></summary>
-<br/>
-
-- Engineered scalable backend APIs in **Go (Gin)** with a clean layered architecture, using **RabbitMQ** for async messaging and **Redis** for caching
-- Architected the frontend of a new SaaS product and built an **AI-powered Playwright automation suite** for continuous accessibility testing
-- Revamped the hero section to match Figma designs, enforced cookie-consent compliance, and improved **Core Web Vitals** (LCP and TBT)
-- Connected Next.js features to Go REST endpoints end to end, with request validation, consistent error handling and reliable database-backed workflows
-
-</details>
-
-<details>
-<summary><b>Frontend Intern: MAKUNAI Global Technologies</b></summary>
-<br/>
-
-- Converted Figma designs into responsive, pixel-accurate pages with **Next.js and Tailwind CSS**
-- Managed shared state with React state and Context; began learning **Redux Toolkit**
-- Built an interactive dashboard with data tables and charts using **Next.js and TypeScript**
-- Collaborated with designers and QA in Agile sprints, contributing to bi-weekly releases
-
-</details>
-
----
 
 ## 📊 GitHub Stats
 
