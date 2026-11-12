@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ritik%20Garg&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Go%20%E2%80%A2%20Next.js%20%E2%80%A2%20Distributed%20Systems&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hrithik%20Garg&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Go%20%E2%80%A2%20Next.js%20%E2%80%A2%20Distributed%20Systems&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+backends+in+Go+%F0%9F%9A%80;Double-entry+ledgers%2C+RBAC%2C+multi-tenancy;Clean+architecture+%7C+Event-driven+design;B.Tech+CSE+(AI+%26+ML)+%E2%80%94+Class+of+2026" alt="Typing SVG" />
