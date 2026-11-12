@@ -155,15 +155,10 @@ A Google Drive-style full-stack app with folders, upload and download, search, s
 
 ## 🤝 Let's Connect
 
-I'm open to **backend / full-stack roles** and interesting engineering collaborations. If you're building something that needs reliable APIs and clean architecture, I'd love to chat.
-
-📫 **Email:** [garghrithik24x7@gmail.com](mailto:garghrithik24x7@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/ritik-garg-604979282](https://www.linkedin.com/in/ritik-garg-604979282/)
-🧩 **LeetCode:** [leetcode.com/u/HO4](https://leetcode.com/u/HO4/)
-🐦 **X (Twitter):** [x.com/gargPriyanshuu](https://x.com/gargPriyanshuu)
+I'm open to backend / full-stack roles and interesting engineering collaborations. If you're building something that needs reliable APIs and clean architecture, I'd love to chat.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+<a href="mailto:garghrithik24x7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/ritik-garg-604979282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://leetcode.com/u/HO4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a> <a href="https://x.com/gargPriyanshuu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
-</div>
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" /> </div>
