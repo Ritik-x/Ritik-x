@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hrithik%20Garg&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Go%20%E2%80%A2%20Next.js%20%E2%80%A2%20Distributed%20Systems&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ritik%20Garg&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Go%20%E2%80%A2%20Next.js%20%E2%80%A2%20Distributed%20Systems&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+backends+in+Go+%F0%9F%9A%80;Double-entry+ledgers%2C+RBAC%2C+multi-tenancy;Clean+architecture+%7C+Event-driven+design;B.Tech+CSE+(AI+%26+ML)+%E2%80%94+Class+of+2026" alt="Typing SVG" />
@@ -9,8 +9,9 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ritik-x&label=Profile%20Views&color=2c5364&style=flat-square)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/HO4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-garg-604979282/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gargPriyanshuu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:garghrithik24x7@gmail.com)
 
 </div>
@@ -157,8 +158,9 @@ A Google Drive-style full-stack app with folders, upload and download, search, s
 I'm open to **backend / full-stack roles** and interesting engineering collaborations. If you're building something that needs reliable APIs and clean architecture, I'd love to chat.
 
 📫 **Email:** [garghrithik24x7@gmail.com](mailto:garghrithik24x7@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-🧩 **LeetCode:** [leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+💼 **LinkedIn:** [linkedin.com/in/ritik-garg-604979282](https://www.linkedin.com/in/ritik-garg-604979282/)
+🧩 **LeetCode:** [leetcode.com/u/HO4](https://leetcode.com/u/HO4/)
+🐦 **X (Twitter):** [x.com/gargPriyanshuu](https://x.com/gargPriyanshuu)
 
 <div align="center">
 
