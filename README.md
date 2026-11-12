@@ -26,7 +26,7 @@ I'm a **Full Stack Developer** who loves building reliable, production-grade bac
 - 🧠 Deep interest in **double-entry accounting, multi-tenancy, ACID transactions and event-driven design**
 - 🎨 Comfortable end to end: Go REST APIs ➜ PostgreSQL ➜ Next.js / TypeScript UI
 - 🌱 Currently learning **Redux Toolkit** and going deeper into distributed systems
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML), AKTU, completed July 2026
+- 🎓 B.Tech in Computer Science & Engineering 
 
 ---
 
